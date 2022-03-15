@@ -1,3 +1,3 @@
 # mergeandconflits
-
+REMOTE
 hello world
